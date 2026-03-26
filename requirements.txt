@@ -1,0 +1,23 @@
+# Web scraping & data extraction
+requests
+beautifulsoup4
+lxml
+selenium>=4.0
+webdriver-manager
+
+# Data processing
+pandas
+openpyxl
+xlrd
+
+# NLP / summarisation (for transcripts)
+nltk
+transformers
+
+# API clients
+ghapi  # GitHub API
+
+# Utilities
+python-dateutil
+tqdm
+rich  # progress bars in terminal
